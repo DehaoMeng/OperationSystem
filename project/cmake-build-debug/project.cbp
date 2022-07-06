@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="E:/ujs_meng/Operating_System/project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project">
+				<Option output="E:/ujs_meng/Operating_System/project/cmake-build-debug/project.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/ujs_meng/Operating_System/project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 project"/>
+					<CompileFile command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project/fast">
+				<Option output="E:/ujs_meng/Operating_System/project/cmake-build-debug/project.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/ujs_meng/Operating_System/project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 project/fast"/>
+					<CompileFile command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="01">
+				<Option output="E:/ujs_meng/Operating_System/project/cmake-build-debug/01.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/ujs_meng/Operating_System/project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 01"/>
+					<CompileFile command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="01/fast">
+				<Option output="E:/ujs_meng/Operating_System/project/cmake-build-debug/01.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/ujs_meng/Operating_System/project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 01/fast"/>
+					<CompileFile command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="02">
+				<Option output="E:/ujs_meng/Operating_System/project/cmake-build-debug/02.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/ujs_meng/Operating_System/project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 02"/>
+					<CompileFile command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="02/fast">
+				<Option output="E:/ujs_meng/Operating_System/project/cmake-build-debug/02.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/ujs_meng/Operating_System/project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 02/fast"/>
+					<CompileFile command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="03">
+				<Option output="E:/ujs_meng/Operating_System/project/cmake-build-debug/03.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/ujs_meng/Operating_System/project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 03"/>
+					<CompileFile command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="03/fast">
+				<Option output="E:/ujs_meng/Operating_System/project/cmake-build-debug/03.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/ujs_meng/Operating_System/project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 03/fast"/>
+					<CompileFile command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="E:/ujs_meng/Operating_System/project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="E:/ujs_meng/Operating_System/project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Program Files/CLion 2021.3.2/bin/mingw/bin/mingw32-make.exe -f &quot;E:/ujs_meng/Operating_System/project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="E:/ujs_meng/Operating_System/project/Elevator_schedulingDemo.cpp">
+			<Option target="03"/>
+		</Unit>
+		<Unit filename="E:/ujs_meng/Operating_System/project/Operating_SystemDemo.cpp">
+			<Option target="01"/>
+		</Unit>
+		<Unit filename="E:/ujs_meng/Operating_System/project/PV.cpp">
+			<Option target="02"/>
+		</Unit>
+		<Unit filename="E:/ujs_meng/Operating_System/project/PV.h">
+			<Option target="02"/>
+		</Unit>
+		<Unit filename="E:/ujs_meng/Operating_System/project/main.cpp">
+			<Option target="project"/>
+		</Unit>
+		<Unit filename="E:/ujs_meng/Operating_System/project/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
